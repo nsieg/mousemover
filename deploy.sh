@@ -1,0 +1,1 @@
+scp /home/nils/mousemover/target/mousemover-0.0.1-SNAPSHOT.jar pi@192.168.168.113:/home/pi
